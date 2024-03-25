@@ -19,12 +19,16 @@ c/**/*
 scala/**/project
 scala/**/target
 
+## maven
+maven/**/target
+
 ## nodejs
 node/**/node_modules
 node/**/package-lock.json
 
+## python venv
+python/**/.venv
+python/**/__pycache__/
 
-
-## nodejs
-node//**/node_modules
-node/**/package-lock.json
+## atlas
+node_modules
