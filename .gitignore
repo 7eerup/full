@@ -1,6 +1,5 @@
-# .env
+#.env
 .env
-
 
 # c
 c/*
@@ -15,6 +14,7 @@ c/**/*
 
 #java
 **/*.class
+
 ## scala
 scala/**/project
 scala/**/target
