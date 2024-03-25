@@ -18,3 +18,13 @@ c/**/*
 ## scala
 scala/**/project
 scala/**/target
+
+## nodejs
+node/**/node_modules
+node/**/package-lock.json
+
+
+
+## nodejs
+node//**/node_modules
+node/**/package-lock.json
